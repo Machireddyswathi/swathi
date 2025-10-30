@@ -312,7 +312,7 @@ const Portfolio = () => {
       </section>
 
       {/* About Section */}
-      <section id="about" className="min-h-screen flex items-center justify-center px-4 py-20">
+      <section id="about" className="min-h-screen md:min-h-screen flex items-center justify-center px-4 py-20">
         <div className="max-w-5xl mx-auto">
           <div className="fade-in-section">
             <h2 className="text-4xl md:text-5xl font-bold mb-2 text-center glow-text">
